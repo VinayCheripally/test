@@ -1,5 +1,0 @@
-{{#user}
-Name: Vinay kumar cheripally
-Skills: HTML, CSS, JS, React.JS, SQL, Python, C
-Email: vinaycheripally1@gmail.com
-{{/user}}
